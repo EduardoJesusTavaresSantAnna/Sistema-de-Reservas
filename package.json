@@ -1,0 +1,27 @@
+{
+  "name": "sistema-de-reservas",
+  "version": "1.0.0",
+  "description": "Aqui é uma forma de aplicar alguns conhecimentos básicos do que tenho aprendido na minha faculdade até então!",
+  "main": "jest.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoJesusTavaresSantAnna/Sistema-de-Reservas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoJesusTavaresSantAnna/Sistema-de-Reservas/issues"
+  },
+  "homepage": "https://github.com/EduardoJesusTavaresSantAnna/Sistema-de-Reservas#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
