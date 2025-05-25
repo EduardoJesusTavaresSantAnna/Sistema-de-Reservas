@@ -34,7 +34,7 @@ Essa separação facilita a manutenção, a expansão futura do projeto e melhor
 
 ### 2.1. Personas (Semana 01 - opcional)
 
-<img src="assets\Persona.png"> <br>
+<img src="assets/Persona.png"> <br>
 
 ### 2.2. User Stories (Semana 01 - opcional)
 
@@ -46,7 +46,7 @@ Essa separação facilita a manutenção, a expansão futura do projeto e melhor
 
 ### 3.1. Modelagem do banco de dados  (Semana 3)
 
-<img src= "assets\bancoDeDados.png"> <br>
+<img src= "assets/bancoDeDados.png"> <br>
 
 ### 3.1.1 BD e Models (Semana 5)
 *Descreva aqui os Models implementados no sistema web*
